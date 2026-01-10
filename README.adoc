@@ -230,7 +230,7 @@ Security contact: [.well-known/security.txt](.well-known/security.txt)
 == License
 
 Dual-licensed under:
-- *MIT License* - See [LICENSE.txt](LICENSE.txt)
+- *Palimpsest-MPL-1.0 License* - See [LICENSE.txt](LICENSE.txt)
 - *Palimpsest License v0.8* - See [LICENSE.txt](LICENSE.txt)
 
 You may use this project under either license.
